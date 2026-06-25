@@ -1,7 +1,7 @@
 # A program to convert Scratch .sb3 files to Python code
 
 from src.imports import *
-from src.sb3_to_pygame import generate_from_project_json
+from src.code_convert import generate_from_project_json
 import shutil
 import sys
 
