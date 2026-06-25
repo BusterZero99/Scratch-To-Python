@@ -1,5 +1,4 @@
-import json
-from pathlib import Path
+from src.imports import *
 
 # Minimal SB3 -> Pygame converter for a few opcodes (event_whenkeypressed, motion_turnleft)
 
